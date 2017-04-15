@@ -1,6 +1,0 @@
-1431204
-mustafiz
-01718844883
-1994224024000012
-mustafiz@gmail.com
-Dhaka

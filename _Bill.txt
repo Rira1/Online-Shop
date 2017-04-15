@@ -1,0 +1,11 @@
+Name :		Phone Number : 	
+
+Seat : 1		Transaction No: 
+
+---------------------------------------------------
+
+Show Time	Movie Name	Pakage	Ticket Price	
+01.00 pm	Fast and Furius	Premium	300	
+
+---------------------------------------------------
+                                    Total 300 BDT

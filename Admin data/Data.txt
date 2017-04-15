@@ -1,0 +1,5 @@
+Show Time	Movie Name	Pakage	Ticket Price	
+11.00 pm	Aynabaji	Premium	300	
+11.00 pm	Aynabaji	Regular	200	
+01.00 pm	Fast and Furius	Regular	200	
+01.00 pm	Fast and Furius	Premium	300	
